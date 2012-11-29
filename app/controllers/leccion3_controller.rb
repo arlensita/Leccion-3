@@ -19,4 +19,7 @@ class Leccion3Controller < ApplicationController
 
   def estrucProgra
   end
+  
+  def ejercicio1
+  end
 end

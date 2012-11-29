@@ -11,6 +11,7 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require jquery
+//= require jquery.alerts
 //= require jquery_ujs
 //= require foundation
 //= require_tree .
@@ -48,5 +49,7 @@
 //= require jquery.effects.slide
 //= require jquery.effects.transfer
 //= require jquery.slicebox.min
-//= require jquery.easing.1.3
 //= require modernizr.custom.13303
+
+
+

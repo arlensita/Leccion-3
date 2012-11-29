@@ -12,6 +12,8 @@ ComponentesBasicos::Application.routes.draw do
   get "leccion3/constructores"
 
   get "leccion3/estrucProgra"
+  
+  get "leccion3/ejercicio1"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
