@@ -50,6 +50,13 @@
 //= require jquery.effects.transfer
 //= require jquery.slicebox.min
 //= require modernizr.custom.13303
+//= require jquery.spritely-0.6
+//= require jquery.scrollTo-1.4.2-min
+//= require jquery-ui-1.8.19.custom.min
+//= require cuadro_texto
+//= require modernizr.custom.79639
+//= require jquery.ba-cond.min
+//= require jquery.slitslider
 
 
 

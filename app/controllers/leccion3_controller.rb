@@ -22,4 +22,7 @@ class Leccion3Controller < ApplicationController
   
   def ejercicio1
   end
+  
+  def introduccion1
+  end
 end

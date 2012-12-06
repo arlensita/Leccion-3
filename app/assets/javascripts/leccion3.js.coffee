@@ -122,3 +122,7 @@ $(window).load ->
       timer: 6000
       startTimerOnClick: true
       nextButton: true
+      
+      
+   
+#///////////////////////////////////////
