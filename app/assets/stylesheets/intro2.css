@@ -9,8 +9,8 @@
 
 .sl-slider {
 	position: absolute;
-	top: 0;
-	left: 0;
+	top: 50;
+	left: 3%;
 }
 
 /* Slide wrapper and slides */
@@ -19,10 +19,10 @@
 .sl-slides-wrapper,
 .sl-slide-inner {
 	position: absolute;
-	width: 100%;
-	height: 200%;
-	top: -40px;
-	left: 0;
+	width: 95%;
+	height: 210%;
+	top: -50px;
+	left: 4px;
 } 
 
 .sl-slide {
@@ -61,12 +61,12 @@
 
 .sl-slide-horizontal .sl-content-slice:first-child {
 	top: -200px;
-	padding: 200px 200px 0px 200px;
+	padding: 100px 200px 0px 200px;
 }
 
 .sl-slide-horizontal .sl-content-slice:nth-child(2) {
 	top: 50%;
-	padding: 0px 200px 200px 200px;
+	padding: 0px 50px 50px 200px;
 }
 
 /* Vertical slice */
@@ -99,9 +99,10 @@
 }
 
 .sl-content {
+	/**
 	width: 100%;
 	height: 100%;
-	background: #fff;
+	background: #fff;**/
 }
 
 /* Default styles for background colors */

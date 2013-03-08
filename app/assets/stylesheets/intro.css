@@ -31,13 +31,15 @@
 
 .inicio {
 	/**width: 100%; **//**tamaño**/
-	
+		
 }
 
-.inicio .intro {
+div .inicio .intro {
 	/**
-	height: 100%;
-	position: absolute;**/
+		position: absolute;
+	height: 500px;
+	**/
+
 }
 
 .inicio > header h1 {

@@ -57,6 +57,11 @@
 //= require modernizr.custom.79639
 //= require jquery.ba-cond.min
 //= require jquery.slitslider
+//= require sweet-tooltip
+//= require tutorial
+//= require ejer2
+//= require ejer3
+
 
 
 
